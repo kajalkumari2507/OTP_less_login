@@ -39,7 +39,7 @@ function App() {
           <p>Email: {userEmail}</p>
         </div>
       ) : (
-        <p>Please wait while we retrieve your details...</p>
+            <p>Verify your What's App and Email to check your details</p>
       )}
     </div>
   );
